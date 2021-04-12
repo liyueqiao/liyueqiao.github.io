@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/caopeirui/caopeirui.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a Ph.D. candidate in John Hopcroft Center of Shanghai Jiao Tong University. From April 2018 to May 2019, I was a Research and Development Engineering in Baidu's search infrastructure team. Before that, I received my master degree from Beihang University in March 2018 and my bachelor degree from Southeast University in June 2015. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Email
+caopeirui@sjtu.edu.cn
+
+## Research Interests 
+Datacenters and edge computing.
+
 
 ### Markdown
 
