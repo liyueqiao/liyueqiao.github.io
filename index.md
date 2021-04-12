@@ -6,5 +6,7 @@ I am currently a Ph.D. candidate in John Hopcroft Center of Shanghai Jiao Tong U
 caopeirui@sjtu.edu.cn
 
 ## Research Interests 
-Datacenters and edge computing.
+- Datacenters
+- Edge computing
+- Scheduling
 
