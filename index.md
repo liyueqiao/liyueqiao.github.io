@@ -1,3 +1,6 @@
+<include src="srt-resume.html"></include>
+
+
 ## About Me
 
 <html>
