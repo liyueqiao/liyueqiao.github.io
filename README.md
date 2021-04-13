@@ -1,3 +1,6 @@
+# Notes
+I am highly appreciate for Draco template designed and developed by Afnizar Nur Ghifari (https://github.com/afnizarnur/draco).
+
 # Draco
 A free PSD & HTML resume template.
 See the demo [here](http://draco.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/draco/releases).
